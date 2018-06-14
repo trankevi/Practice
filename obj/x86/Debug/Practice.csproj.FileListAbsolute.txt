@@ -1,0 +1,6 @@
+/Users/kevintran/Desktop/git/Practice/obj/x86/Debug/Practice.csprojResolveAssemblyReference.cache
+/Users/kevintran/Desktop/git/Practice/obj/x86/Debug/Practice.csproj.CoreCompileInputs.cache
+/Users/kevintran/Desktop/git/Practice/bin/Debug/Practice.exe
+/Users/kevintran/Desktop/git/Practice/bin/Debug/Practice.pdb
+/Users/kevintran/Desktop/git/Practice/obj/x86/Debug/Practice.exe
+/Users/kevintran/Desktop/git/Practice/obj/x86/Debug/Practice.pdb
