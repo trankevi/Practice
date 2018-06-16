@@ -2,7 +2,8 @@
   <MonoDevelop.Ide.ItemProperties.Practice PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Practice Status">
     <Files>
-      <File FileName="Addition.cs" Line="4" Column="1" />
+      <File FileName="Addition.cs" Line="26" Column="5" />
+      <File FileName="MajorityArray.cs" Line="12" Column="1" />
       <File FileName="Practice Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
