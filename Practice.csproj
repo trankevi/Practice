@@ -29,6 +29,7 @@
   <ItemGroup>
     <Compile Include="Addition.cs" />
     <Compile Include="MajorityArray.cs" />
+    <Compile Include="Prime.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

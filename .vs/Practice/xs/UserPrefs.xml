@@ -4,6 +4,7 @@
     <Files>
       <File FileName="Addition.cs" Line="26" Column="5" />
       <File FileName="MajorityArray.cs" Line="12" Column="1" />
+      <File FileName="Prime.cs" Line="13" Column="1" />
       <File FileName="Practice Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
