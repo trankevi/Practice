@@ -30,6 +30,7 @@
     <Compile Include="Addition.cs" />
     <Compile Include="MajorityArray.cs" />
     <Compile Include="Prime.cs" />
+    <Compile Include="RemoveStringDupes.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
