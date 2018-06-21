@@ -2,10 +2,8 @@
   <MonoDevelop.Ide.ItemProperties.Practice PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Practice Status">
     <Files>
-      <File FileName="Addition.cs" Line="26" Column="1" />
-      <File FileName="MajorityArray.cs" Line="1" Column="1" />
-      <File FileName="Prime.cs" Line="13" Column="1" />
-      <File FileName="RemoveStringDupes.cs" Line="9" Column="48" />
+      <File FileName="MajorityArray.cs" Line="50" Column="56" />
+      <File FileName="Multiples3and5.cs" Line="24" Column="7" />
       <File FileName="Practice Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>

@@ -14,8 +14,14 @@ class Multiples3and5
 {
 
     //Current Solution adds multiples to a hashmap and sums the multiples. Could be improved. 
-    //Will add further explanation/optimizations in future.
 
+    /*
+     * GetMultiples accepts a limiting bar, an array of numbers to find the multiples of,
+     * and a hashmap to add the multiples to. For each number in the array, it gets the
+     * mutiple and adds it to the hashmap if the hashmap does not already contain the multiple.
+     * The method breaks out of the loop when the current multiple surpasses or reaches the
+     * limiting bar.
+    */
     static void GetMultiples(int bar, int[] numbers, Dictionary<int, int> multiplelist){
         foreach (int num in numbers) {
             for (int i = 1; i < bar; i++){
@@ -30,6 +36,9 @@ class Multiples3and5
         }
     }
 
+    /*
+     * SumMultiples takes the hashmap and goes through each item and sums it up.
+     */
     static int SumMultiples(Dictionary<int, int> multiplelist){
         int sum = 0; 
         foreach (KeyValuePair<int, int> pair in multiplelist){
@@ -38,6 +47,11 @@ class Multiples3and5
         return sum;
     }
 
+    /*
+     * Basically, here we just set our limiting bar and our multiples we want in the
+     * array. A new empty hashmap is created and we just let our other functions do
+     * the work.
+     */
     static void Main(){
         int bar = 1000;
         int[] numbers = { 3, 5 };
