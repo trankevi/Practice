@@ -33,6 +33,7 @@
     <Compile Include="Prime.cs" />
     <Compile Include="RemoveStringDupes.cs" />
     <Compile Include="Multiples3and5.cs" />
+    <Compile Include="NumberLetterCounts.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
