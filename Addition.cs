@@ -37,14 +37,14 @@ class Addition {
     }
 
     /*
-    Another consideration is possibility of overflow. We could cast the type from int
-    to long and have the solutions return a long instead, but in this case it is fine
-    because the numbers are tiny.
-
-    I was recently asked "what if we wanted the odd numbers?". We can just negate
-    the conditional in the standard or negate the 'where' conditional for the one-line
-    methods by changing the == to !=. 
-    */
+     * Another consideration is possibility of overflow. We could cast the type from int
+     * to long and have the solutions return a long instead, but in this case it is fine
+     * because the numbers are tiny.
+     * 
+     * I was recently asked "what if we wanted the odd numbers?". We can just negate
+     * the conditional in the standard or negate the 'where' conditional for the one-line
+     * methods by changing the == to !=. 
+     */
 
     static int AddOdds(int[] array)
     {
