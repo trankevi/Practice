@@ -12,6 +12,24 @@ using System.Text;//for StringBuilder
  */
 
 class RemoveStringDupe{
+
+    /*
+     * Solution
+     * 
+     * This solution uses a hashmap to check for duplicates, along with a string
+     * builder to create the new output string. The first loop goes through each
+     * char in the input string, and checks if the hashmap contains a matching
+     * key; if not, a new key-value pair is added to the hashmap (we could also
+     * use this to count the number of occurences of the repeated letters, but 
+     * the question does not ask us to do so, so I just put 1 in the value). 
+     * 
+     * Then, for each pair in the hashmap, the string will be built by appending
+     * the key to the output string. Finally, we convert the builder to a string
+     * by using the .ToString() method. 
+     * 
+     */
+
+
     static string RemoveDuplicates(string str){
         Dictionary<char, int> list = new Dictionary<char, int>();
         StringBuilder builder = new StringBuilder();

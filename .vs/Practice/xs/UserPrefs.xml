@@ -2,8 +2,8 @@
   <MonoDevelop.Ide.ItemProperties.Practice PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Practice Status">
     <Files>
-      <File FileName="Multiples3and5.cs" Line="55" Column="1" />
-      <File FileName="RemoveStringDupes.cs" Line="13" Column="1" />
+      <File FileName="RemoveStringDupes.cs" Line="32" Column="5" />
+      <File FileName="Addition.cs" Line="32" Column="5" />
       <File FileName="Practice Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
